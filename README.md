@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jayendrat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m Jayendra Singh Thakur
+- 👀 I’m interested in Backend, Data Engineering, API and DevOps
+- 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email:- jayendra.thakur.singh@gmail.com
 
